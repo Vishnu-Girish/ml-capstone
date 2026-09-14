@@ -8,6 +8,11 @@ This repository contains a comprehensive machine learning pipeline divided into 
 * **Classification:** Breast Cancer Wisconsin dataset (`breast_cancer_dataset.csv`) utilized to predict malignant or benign tumor diagnoses based on cell-nucleus measurements.
 * **Clustering:** [Dataset Name Pending] utilized for unsupervised pattern recognition.
 
+## Contributors
+1. Vishnu Girish -> https://github.com/Vishnu-Girish
+2. Gopi Krishna -> https://github.com/KingKrishna47
+3. Likitha Batchu -> https://github.com/LikithaBatchu
+
 ## Algorithms Implemented
 ### Regression
 * Linear Regression, Ridge, Lasso, ElasticNet, Polynomial Regression
