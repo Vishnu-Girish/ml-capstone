@@ -5,7 +5,7 @@ This repository contains a comprehensive machine learning pipeline divided into 
 
 ## Datasets
 * **Regression:** Motorcycle specifications dataset (`all_bikez_curated.csv`) utilized to predict engine power (hp) based on mechanical features.
-* **Classification:** Breast Cancer Wisconsin dataset (`breast_cancer_dataset.csv`) utilized to predict malignant or benign tumor diagnoses based on cell-nucleus measurements.
+* **Classification:** F1 Race Prediction dataset (`all_f1_cars.csv`) utilized to predict driver podium finishes.
 * **Clustering:** [Dataset Name Pending] utilized for unsupervised pattern recognition.
 
 ## Contributors
