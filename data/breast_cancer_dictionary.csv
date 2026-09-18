@@ -1,0 +1,32 @@
+Column,Description
+Diagnosis,"Diagnosis: M = malignant, B = benign"
+mean radius,Numerical cell-nucleus measurement: mean radius
+mean texture,Numerical cell-nucleus measurement: mean texture
+mean perimeter,Numerical cell-nucleus measurement: mean perimeter
+mean area,Numerical cell-nucleus measurement: mean area
+mean smoothness,Numerical cell-nucleus measurement: mean smoothness
+mean compactness,Numerical cell-nucleus measurement: mean compactness
+mean concavity,Numerical cell-nucleus measurement: mean concavity
+mean concave points,Numerical cell-nucleus measurement: mean concave points
+mean symmetry,Numerical cell-nucleus measurement: mean symmetry
+mean fractal dimension,Numerical cell-nucleus measurement: mean fractal dimension
+radius error,Numerical cell-nucleus measurement: radius error
+texture error,Numerical cell-nucleus measurement: texture error
+perimeter error,Numerical cell-nucleus measurement: perimeter error
+area error,Numerical cell-nucleus measurement: area error
+smoothness error,Numerical cell-nucleus measurement: smoothness error
+compactness error,Numerical cell-nucleus measurement: compactness error
+concavity error,Numerical cell-nucleus measurement: concavity error
+concave points error,Numerical cell-nucleus measurement: concave points error
+symmetry error,Numerical cell-nucleus measurement: symmetry error
+fractal dimension error,Numerical cell-nucleus measurement: fractal dimension error
+worst radius,Numerical cell-nucleus measurement: worst radius
+worst texture,Numerical cell-nucleus measurement: worst texture
+worst perimeter,Numerical cell-nucleus measurement: worst perimeter
+worst area,Numerical cell-nucleus measurement: worst area
+worst smoothness,Numerical cell-nucleus measurement: worst smoothness
+worst compactness,Numerical cell-nucleus measurement: worst compactness
+worst concavity,Numerical cell-nucleus measurement: worst concavity
+worst concave points,Numerical cell-nucleus measurement: worst concave points
+worst symmetry,Numerical cell-nucleus measurement: worst symmetry
+worst fractal dimension,Numerical cell-nucleus measurement: worst fractal dimension
